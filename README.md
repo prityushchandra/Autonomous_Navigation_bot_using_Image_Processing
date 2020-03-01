@@ -2,7 +2,7 @@
 Winning solution of Pixelate_Technex_2020 -an image processing event ,with hardware implementation of robot for solving maze by applying Dijikstra's algorithm
 
 # Problem Statement:
-Pixelate of Technecx2020 ,expected us to develop a robot for solving a maze using the live feed from a over head webcam feed.The detailed PS:(https://drive.google.com/file/d/1EVgbCahsWBrH0a6bkRaxirno93a3y6rU/view).
+Pixelate of Technecx2020 ,expected us to develop a robot for solving a maze using the live feed from a over head webcam feed.The detailed PS:(https://drive.google.com/open?id=1Ce5YPxhNc1LwUZp86alKOLzDNbr6lFp6).
 
 # Our Solution:
 1)We used opencv and other image processing techniques for shape and color segmentation from video feed.
